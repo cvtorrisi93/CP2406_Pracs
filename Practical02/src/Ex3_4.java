@@ -1,7 +1,6 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.4 - Basic Calculator
+//Exercise 3.4 - Word Separator
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex3_4 {
