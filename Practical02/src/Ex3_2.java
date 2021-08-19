@@ -1,5 +1,5 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.2 - Largest Number of Divisors
+//Exercise 3.2 - Largest Number of Divisors v1.0
 
 public class Ex3_2 {
     public static void main(String[] args) {
