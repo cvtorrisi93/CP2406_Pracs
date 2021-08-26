@@ -1,5 +1,5 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.4 - City Sales Figures
+//Exercise 3.5 - City Sales Figures
 
 import java.io.File;
 import java.io.FileNotFoundException;
