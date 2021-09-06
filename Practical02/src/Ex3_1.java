@@ -1,5 +1,5 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.1 - Count Rolls to Snake Eyes
+//Exercise 3.1 - Snake Eyes v1.0
 
 public class Ex3_1 {
     public static void main(String[] args) {
