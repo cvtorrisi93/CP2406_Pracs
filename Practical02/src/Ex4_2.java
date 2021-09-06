@@ -1,5 +1,5 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.1 - Snake Eyes v2.0
+//Exercise 4.2 - Snake Eyes v2.0
 
 public class Ex4_2 {
     public static void main(String[] args) {

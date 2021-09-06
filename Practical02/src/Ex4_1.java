@@ -1,5 +1,5 @@
 // CP2406 Prac 2 - Christian Torrisi
-//Exercise 3.1 - Print Capitalised
+//Exercise 4.1 - Print Capitalised
 
 import java.util.Scanner;
 
