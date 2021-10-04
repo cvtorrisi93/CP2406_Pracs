@@ -14,7 +14,7 @@ public class Ex5_6 {
                 "\nGood luck!");
 
         createQuestions();
-        //TODO answerQuestions();
+        answerQuestions();
         //TODO getResults();
     }
 
@@ -25,4 +25,12 @@ public class Ex5_6 {
         }
     }
 
+    private static void answerQuestions() {
+        Scanner userInput = new Scanner(System.in);
+        userAnswers = new int[10];
+        for (int i = 0; i < 10; i++) {
+            System.out.println(questions[i].getQuestion());
+            userAnswers[i] = userInput.nextInt();
+        }
+    }
 }
